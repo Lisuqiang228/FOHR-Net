@@ -49,4 +49,4 @@ results = model.val()  # evaluate model performance on the validation set
 results = model("https://ultralytics.com/images/bus.jpg")  # predict on an image
 success = model.export(format="onnx")  # export the model to ONNX format
 ```
-
+## <div align="center">Notice</div>
